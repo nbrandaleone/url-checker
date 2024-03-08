@@ -1,0 +1,7 @@
+workers: 2
+period: 2 # seconds
+urls:
+  - https://google.com
+  - https://amazon.com
+  - https://crystal-lang.org
+  - http://non-existing-1312.com
